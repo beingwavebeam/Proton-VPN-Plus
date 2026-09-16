@@ -1,0 +1,23 @@
+{
+  "repo": "proton-vpn-plus",
+  "product": "Proton VPN Plus",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "vpn-client",
+  "topics": [
+    "proton-vpn",
+    "secure-tunnel-desktop",
+    "split-tunnel-rules",
+    "proton-windows",
+    "vpn-profiles-2026",
+    "how-to-install-proton-vpn",
+    "proton-desktop-package",
+    "kill-switch-suite",
+    "netshield-desk",
+    "proton-vpn-plus"
+  ],
+  "site": "toolix.me"
+}
